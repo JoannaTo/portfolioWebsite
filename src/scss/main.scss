@@ -1,0 +1,9 @@
+// TODO: Override bootstrap variables first
+@import "./includes/vars";
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+@import "../scss/custom/header.scss";
+
+body {
+  background-color: #f5f5f5;
+}
